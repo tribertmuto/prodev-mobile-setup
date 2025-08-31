@@ -8,4 +8,5 @@ Check out the [Expo Router documentation](https://docs.expo.dev/routing/introduc
    ```bash
    cd prodev-mobile-setup
    npx create-expo-app@latest .
+2. reset-project
 
